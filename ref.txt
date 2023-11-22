@@ -1,0 +1,8 @@
+Kingma, D.P.; Welling, M. Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114 2013.
+601 22. Akcay, S.; Atapour-Abarghouei, A.; Breckon, T.P. Ganomaly: Semi-supervised anomaly detection via
+602 adversarial training. In Proceedings of Asian Conference on Computer Vision; pp. 622-637.
+
+[autoGAN]
+Schlegl, T.; Seeböck, P.; Waldstein, S.M.; Schmidt-Erfurth, U.; Langs, G. Unsupervised anomaly
+618 detection with generative adversarial networks to guide marker discovery. In Proceedings of
+619 International Conference on Information Processing in Medical Imaging; pp. 146-157
